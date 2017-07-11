@@ -1,0 +1,23 @@
+{
+  "name": "cssPlayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/cssPlayground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/cssPlayground/issues"
+  },
+  "homepage": "https://github.com/rchaser53/cssPlayground#readme",
+  "dependencies": {
+    "less": "^2.7.2"
+  }
+}
