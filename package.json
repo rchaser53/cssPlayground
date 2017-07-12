@@ -1,10 +1,10 @@
 {
-  "name": "cssPlayground",
+  "name": "testplayground",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "less": "lessc"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -12,12 +12,19 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/rchaser53/cssPlayground/issues"
   },
   "homepage": "https://github.com/rchaser53/cssPlayground#readme",
   "dependencies": {
-    "less": "^2.7.2"
+    "ava": "^0.20.0",
+    "axios": "^0.16.2",
+    "express": "^4.15.3",
+    "less": "^2.7.2",
+    "typescript": "^2.4.1",
+    "vue": "^2.3.4",
+    "vue-loader": "^13.0.1",
+    "webpack": "^3.2.0",
+    "webpack-dev-server": "^2.5.1"
   }
 }
