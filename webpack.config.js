@@ -5,7 +5,7 @@ module.exports = {
 	context: path.resolve(__dirname, './src'),
   devtool: 'inline-source-map',
   entry: {
-    index: "./codeA.js"
+    index: "./connection/goodCode.js"
   },
   output: {
     path: path.resolve(__dirname, "dist"),
