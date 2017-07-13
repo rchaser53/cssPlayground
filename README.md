@@ -8,3 +8,9 @@
 
 ## esaに書いたドキュメントの整備
  - 何が嬉しいのか? 何が問題になるのかなどを記述する
+
+
+ # 動かし方
+  1. yarn install
+  2. node server.js
+  3. npm start
